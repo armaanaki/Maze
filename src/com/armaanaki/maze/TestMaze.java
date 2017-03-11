@@ -1,3 +1,11 @@
+/*
+ * 	Class: CCS1302/08
+ * 	Term: Spring 2017
+ * 	Name: Armaan Esfahani
+ *  Instructor: Monisha Verma
+ *  Assignment: Maze Project
+ */
+
 package com.armaanaki.maze;
 
 import java.util.Scanner;

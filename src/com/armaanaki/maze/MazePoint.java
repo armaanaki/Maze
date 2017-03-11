@@ -3,14 +3,14 @@
  * 	Term: Spring 2017
  * 	Name: Armaan Esfahani
  *  Instructor: Monisha Verma
- *  Assignment:
+ *  Assignment: Maze Project
  */
 
 package com.armaanaki.maze;
 
 import com.armaanaki.generic.Point;
 
-//this method extends Node as Node is a generic point that may be used in future projects
+//this method extends Point as Point is a generic point that may be used in future projects
 public class MazePoint extends Point {
 	
 	private double g; // distance moved from start

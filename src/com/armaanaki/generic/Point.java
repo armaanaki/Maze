@@ -3,7 +3,7 @@
  * 	Term: Spring 2017
  * 	Name: Armaan Esfahani
  *  Instructor: Monisha Verma
- *  Assignment:
+ *  Assignment: Maze Project
  */
 
 package com.armaanaki.generic;
